@@ -45,7 +45,7 @@ class ViewController: UIViewController {
         // update button text
         button.setTitle("Mail Sent", forState: UIControlState.Normal)
         button.enabled = false;
-         
+        // add commit
     }
 
 }
